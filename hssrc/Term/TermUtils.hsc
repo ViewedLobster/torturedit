@@ -1,4 +1,4 @@
-module TermUtils 
+module Term.TermUtils
     (
     termSize
     ) where

@@ -1,6 +1,6 @@
 import System.IO
 
-import TermUtils (termSize)
+import Term.TermUtils (termSize)
 
 main = do
     setUpTerminal
